@@ -1,0 +1,93 @@
+.jumbotron {
+    background-image: url("image/jumbotron.png");
+    height: 768px;
+    color: #fff;
+    text-align: center;
+    background-size: cover;
+}
+
+.jumbotron .profile {
+    width: 277px;
+    height: 277px;
+    margin-top: 50px;
+}
+
+.jumbotron h1 {
+    padding-top: 14px;
+    font-family: Lato;
+
+}
+
+.jumbotron p {
+    font-family: Lato;
+    font-weight: lighter;
+}
+
+.about {
+   background-color: #101011;
+   color: #fff;
+   margin-top :-50px;
+   font-family: 'Lato', sans-serif;
+}
+
+.about h3 {
+    font-weight: bold;
+}
+
+.tombol .btn {
+   color: #fff;
+   width: 150px;
+}
+
+/* personal details */
+
+.personal{
+    background-color: #15151A;
+}
+
+.personal-details{
+    font-size: 22px;
+    line-height: 40px;
+}
+
+.my-interest .gambar1 {
+    display: flex;
+    width: max-content;
+}
+
+.my-interest .gambar2 {
+    display: flex;
+    width: max-content;
+}
+
+.btn-outline-warning{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+/* skill */
+
+.skill {
+    background-color: #101011;
+}
+
+.skill h3 , p {
+    color: #fff;
+
+}
+
+.card {
+    display: inline-block;
+    border: none;
+    margin-top: 16px;
+
+}
+
+/* footer */
+
+.footer {
+    background-color: #15151A;
+    font-size: 16px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
